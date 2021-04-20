@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_6e61090f0769e54b5d51a6f9ac9439a84d02e595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2bbcbe9b4a524ce27fd3e63a376b3349346dcdfc">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a3173badc2c87b11394fe43e3c3428e4c4d28677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_7e6ee8798cf3e5d97d55627a4a3cf5be15cda919\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_221387f704884052803555af2ab57c77faf7ade5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_4208e72e7502cd9d8e88246fa64166debf491aab.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_b1a34428cd2daa115c9bff9db0d11d7dc25a75a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_51183da7c5d363712114b7fb39cb4727c2481fee.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_fae74f2a74848115eb1f725955193859eb14742e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_0c179ce64348d3208a82ae3443f4aec8830c201c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_9ae797ac998c90eaf9ea85bbfe40230d7ceac737.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_2a8a2d3254b34d57642d1cb241190961249a97a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dccc389cff87f45a63f8eab7ef4d3f6289f89d4a">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1cfc6c19e58d5bcccd48c98ce59f80368acb7871\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_6b7bdd64075f27ac794055998accebfc57200291.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_9e08293c85be1c2111d31e72afe5b2d8cfa83809.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_26d175ba180795777c3826826e87e87d25be4af3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bee2396fc86bcf86efd07ba1f663e51d077a1035">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e20345a8bfca394322c07b779f0e2d912298afb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_2fb6813ec7a53c1b3e1869ec11c01f2f4473eb35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_b6735036f28f41e356adad32b8d9f5c3b7979547\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_2443c7e4cac0d159f61b21befc10d21548ec6b8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_9a54b3d2eb0442b90456ecae37d82dd3a4b1087a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_ce1cfd18e388daf315bdc1510dfae19cd59645a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_0f74c8c26c42a074e20ba464561b3c9a335e594b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_8f0b3e7db9efc42bf85617332237d318d5e8c501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_96baef250c148239cfe3d2f24dfef1cc7c06a101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_2d70d285c1bffbe89815bce91b4f601b25a30fe2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_282c26d6c9cd34f89731630fcca616f15835cd05\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_149930cca854d97770b3b92f2e2dca183031d049.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_bd5228177e52e6c06541e77c735af6ab461f6f84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.5.0_aff3df3ed002664d8b119a93b2b85e551baf6d27\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_8fd42c5aea4e22cb189afb0046a20f0d8b173921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_306e1269e9d70468207c93643bebee3260766afa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_221387f704884052803555af2ab57c77faf7ade5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_114088607592a15ce506d8602cbb8454c85eb145.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_6e61090f0769e54b5d51a6f9ac9439a84d02e595.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9607c1f931aa9943bef1c1333ec50c6b24d5db77">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d8aea8eb581eb8517f532146344b8fd149988bdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_355d6e1e9526979b6788329bda70e6919b5ab993.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_59d83a8d79fa1d49012aad5516c4898c352b8277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_13df53b5816f86b76bdf105edba4d80fc78c4231.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_cc8d8ff3b2d399e094fd77a0a82f24c9bc3e9fe8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_6b7bdd64075f27ac794055998accebfc57200291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_fc0e872d9d3a029d7572e432b05584d426e412f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_13d805406e7d106756c6475e0e5f9134f1d8e2bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_f32459258f36b6dbd8a5480d99deb6f7bb6d4cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_2a1a5b48f8a6d2d0d5884a3516071994329442e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_15776479a4dde1602cd840e43429cd53440ca390.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_e7ce7fce15cad0e97c071afb905854325d462c11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_53dd054397eefe4ccb23ac06d1b06efeda402d67.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_8f0b3e7db9efc42bf85617332237d318d5e8c501\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_09ced5ce5af7c227ba6d9e8549e20bee44b829e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_2f70787aa878d80f3a0bafa7cdcacf3259031032.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_70037d5ac51b8c3b8ec4e1882161bf3174e42739\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_bd5228177e52e6c06541e77c735af6ab461f6f84.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0-alpha1_308354d088271c21a85cab16bbff5a4bc2066bc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_87427892dd5ad0da08c41b71117c7b09286f7a0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_222d16101302de4bfeb293935751778d9efbac7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0-alpha1_727ecaaf7964890ed059dc26b938a7aa27c1f3aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_4dd4701742af378c5850fdfb9d492f98cc319750\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_8ee8626c8e47bf6f2667829d82a47932f419c56b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_fc736a875f11313d48d9e6da33e2ac7ee13df498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_59d83a8d79fa1d49012aad5516c4898c352b8277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.5.0_42e64255190aa6c2be4668d5f51081256d98a200\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82db851f8019f40ed863e185bdc312415299aa87">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_487f11c846bbaf11e70540d8caf07803911a94d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_d73e24fb6e6819050150c3db85102ecec82abecf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_521cb293db00637d795c4460fcece005490028a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_57362627bd68ec498d4622b53f09bfa420fd61dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.5.0_1a15becea4b34f01e5afba74f4416a692a8a2376.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_071711be8e14b3e9e5045ea172d116ea9c0c9d0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_707b749550ae5dfc9e7fb1e1f0abb70200753e92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.5.0_d856d8de19a53ba51167377a473dfea2dad92936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_c138372eb7dafc0b9ec5de32be82cc6991317a1c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_e34b58a96d605435bd4939db333a3bd0348313c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_2e8dae66dc444c49363d28ff94b0b92013dd28e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_f43c37b7184cd393a5d61caf07dbb6197d546038\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_a8231325a9c1b43ae7e7c467b5a52a412c101902\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0-alpha1_26d175ba180795777c3826826e87e87d25be4af3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_ec0fb760ca4654e7396c41a4c257ad9f99f36b20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_d21c2f8144612bd447e7e8b74ec387c8cbc9e3a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.5.0_437c02a141511cb6604833f669de9e4aa4e024fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0-alpha1_3018aa59b570b82b0b49b2536203eb34b76159e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_fc736a875f11313d48d9e6da33e2ac7ee13df498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_cdc2225700926fb4d9ec9612732a96ef7e93e18f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\project final\Project Ar\TourGuideTemplate\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_b72d49995d02b548a5479a920309c2131f24c5dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_91b3bcc5abbfd939709d005bfb2eea8efdc03dea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.5.0_c6f59dae67d9e494c9865b5c10a5f4cf323990e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0-alpha1_521cb293db00637d795c4460fcece005490028a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0-alpha1_c913c9e6f2858445b5e1a075fadc7d7ae03ff001\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\project midway\demo\TourGuideSilpakorn\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_4b067fff0593813b691547fed357d62a8f5b7563.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_67b98ab206431072869147e63b0f2b68e697575e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c0fa67331e2fdb2d17a4c1c9f818b1ab61f5788e">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ee4adac536da26b25cb4222d933524ebed48d1da\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_eafa387b8446657c266901abcf2bd8c4ab8cf3f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0-alpha1_2fb6813ec7a53c1b3e1869ec11c01f2f4473eb35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0-alpha1_707b749550ae5dfc9e7fb1e1f0abb70200753e92\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_b6735036f28f41e356adad32b8d9f5c3b7979547.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_2352256e7dd8a16896e6f97a7858a0f2f245eb90\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_ce1cfd18e388daf315bdc1510dfae19cd59645a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_f9456496fb79c092aaf826a428b24b1fbd628d94.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\project midway\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_00f16aba1cc334663b1313878fcbc0ea6358bb07\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_5e902d54711d23c8b926fe9ee1c11ac4500f74ea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\project final\assets doc\demo\TourGuideSilpakorn\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_c3506d177d25f8714cf6cd432ab0c6f5232d54bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\project midway\demoPrapathomjedi\TourGuidePrapathomjedi\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_b5077e548d1e5675ddb92362129e4963bef623a2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0-alpha1_96baef250c148239cfe3d2f24dfef1cc7c06a101\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_e34b58a96d605435bd4939db333a3bd0348313c8.jar" />
+    </item>
+
+</items>

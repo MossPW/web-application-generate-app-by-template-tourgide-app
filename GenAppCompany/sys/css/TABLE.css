@@ -1,0 +1,10 @@
+.datagrid table { border-collapse: collapse; text-align: left; width: 100%; } 
+.datagrid {font: normal 12px/150% Arial, Helvetica, sans-serif; background: #fff; overflow: hidden; border: 5px solid #000000; -webkit-border-radius: 14px; -moz-border-radius: 14px; border-radius: 14px; }
+.datagrid table td,
+ .datagrid table th { padding: 8px 20px; }
+ .datagrid table thead th {background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #582699), color-stop(1, #00557F) );background:-moz-linear-gradient( center top, #582699 5%, #00557F 100% );filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#582699', endColorstr='#00557F');background-color:#582699; color:#FFFFFF; font-size: 16px; font-weight: bold; border-left: 1px solid #000000; } 
+ .datagrid table thead th:first-child { border: none; }
+ .datagrid table tbody td { color: #00496B; border-left: 1px solid #000000;font-size: 15px;border-bottom: 1px solid #000000;font-weight: normal; }
+ .datagrid table tbody .alt td { background: #E1EEF4; color: #00496B; }
+ .datagrid table tbody td:first-child { border-left: none; }
+ .datagrid table tbody tr:last-child td { border-bottom: none; }

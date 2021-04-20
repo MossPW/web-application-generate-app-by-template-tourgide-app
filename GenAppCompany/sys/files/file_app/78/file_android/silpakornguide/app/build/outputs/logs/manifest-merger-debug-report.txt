@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:15:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:16:5-98
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:16:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:19:22-77
+uses-feature#android.hardware.camera
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:22:5-24:35
+	android:required
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:24:9-32
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:23:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:26:5-28:36
+	android:required
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:28:9-33
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:27:9-57
+application
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:30:5-61:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:31:9-35
+	android:icon
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:32:9-42
+	android:theme
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:34:9-40
+activity#com.tourguide.example.silpakorn.CameraViewActivity
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:35:9-37:66
+	android:label
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:36:13-47
+activity#com.tourguide.example.silpakorn.SplashActivity
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:38:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.tourguide.example.silpakorn.MapActivity
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:45:9-49
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:45:19-46
+activity#com.tourguide.example.silpakorn.QuestionActivity
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:46:9-48:16
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:46:19-51
+meta-data#com.google.android.gms.version
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:50:9-52:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:52:13-66
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:51:13-58
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:53:9-55:71
+	android:value
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:55:13-68
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:54:13-62
+activity#com.tourguide.example.silpakorn.DetailActivity
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:57:9-61
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:57:19-49
+activity#com.tourguide.example.silpakorn.TotalScore
+ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:58:9-60:20
+	android:name
+		ADDED from E:\Project_Fully\demoSU\SilpakornGuide\app\src\main\AndroidManifest.xml:58:19-45
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] E:\Project_Fully\demoSU\SilpakornGuide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\AndroidManifest.xml:24:8-31

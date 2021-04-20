@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_quiz"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="#fffafe"
+    tools:context="com.tourguide.example.silpakorn.QuestionActivity"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:layout_marginBottom="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="20sp"
+            android:layout_alignParentLeft="true"
+            android:id="@+id/topicqustion"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/score"
+            android:text="0"
+            android:textSize="18sp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:visibility="invisible"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="19sp"
+        android:padding="8dp"
+        android:layout_marginBottom="22dp"
+        android:id="@+id/question"
+        android:backgroundTint="#2e7abc"
+        android:background="@android:drawable/toast_frame"
+
+
+        android:layout_weight="0.71" />
+
+    <!-- btn choice 1  -->
+    <FrameLayout  android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <!-- btn type 1  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+
+            android:id="@+id/choice1_type1"
+            android:visibility="visible" />
+        <!-- btn type 2  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice1_type2"
+            android:visibility="invisible"/>
+        <!-- btn type 3  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice1_type3"
+            android:visibility="invisible"/>
+        <!-- btn type 4  -->
+        <Spinner
+            android:id="@+id/dropdown_choice1_type4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:visibility="invisible"/>
+
+    </FrameLayout>
+
+    <!-- btn choice 2  -->
+    <FrameLayout  android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <!-- btn type 1  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice2_type1"/>
+        <!-- btn type 2  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice2_type2"
+            android:visibility="invisible"/>
+        <!-- btn type 3  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice2_type3"
+            android:visibility="invisible"/>
+        <!-- btn type 4  -->
+        <Spinner
+            android:id="@+id/dropdown_choice2_type4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:visibility="invisible"/>
+    </FrameLayout>
+
+    <!-- btn choice 3  -->
+    <FrameLayout  android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <!-- btn type 1  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice3_type1"/>
+
+        <!-- btn type 3  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice3_type3"
+            android:visibility="invisible"/>
+        <!-- btn type 4  -->
+        <Spinner
+            android:id="@+id/dropdown_choice3_type4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:visibility="invisible"/>
+    </FrameLayout>
+
+
+    <!-- btn choice 4  -->
+    <FrameLayout  android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        <!-- btn type 1  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice4_type1"/>
+        <!-- btn type 3  -->
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorBtnChoice"
+            android:textColor="#fff"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:id="@+id/choice4_type3"
+            android:visibility="invisible"/>
+        <!-- btn type 4  -->
+        <Spinner
+            android:id="@+id/dropdown_choice4_type4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown"
+            android:textSize="16sp"
+            android:padding="8dp"
+            android:layout_marginBottom="22dp"
+            android:visibility="invisible"/>
+    </FrameLayout>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#3fd765"
+        android:background="@android:drawable/toast_frame"
+        android:textColor="#ffff"
+        android:text="ต่อไป >>"
+        android:textSize="18sp"
+        android:padding="8dp"
+        android:layout_marginBottom="22dp"
+        android:id="@+id/btnEnter" />
+
+
+
+</LinearLayout>
+

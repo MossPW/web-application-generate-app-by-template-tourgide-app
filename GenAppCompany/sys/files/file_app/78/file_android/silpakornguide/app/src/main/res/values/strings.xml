@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+                          <resources>
+
+                          <string name="app_name">นำเที่ยวศิลปากร</string>
+
+                          <string name="app_id">com.tourguide.example.silpakornguide</string>
+
+                          <string name="hello_world">Hello world!</string>
+
+                          <string name="menu_settings">Settings</string>
+
+                          <string name="title_activity_main">MainActivity</string>
+
+                          <string name="title_activity_camera_view">CameraViewActivity</string>
+
+                          </resources>
